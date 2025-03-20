@@ -1,6 +1,7 @@
 {
     "includeCommitsMentionedByReflogs": true,
-    "name": "CodeJudger for C",
+    "name": "r C",
     "onlyFollowFirstParent": true,
-    "exportedAt": 1742473726853
+    "showRemoteBranches": true,
+    "exportedAt": 1742473877326
 }
